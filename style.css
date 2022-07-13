@@ -1,0 +1,182 @@
+body {
+    color: rgb(90, 90, 90);
+    font-family: 'Courgette', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.healthy {
+    display: flex;
+}
+
+.font {
+    font-size: 80px;
+    font-weight: 1000;
+}
+
+.font-alignment {
+    padding: 200px 0px 0px 100px;
+}
+
+.width {
+    width: 50%;
+    margin-right: 0px;
+}
+
+.width img {
+    width: 100%;
+}
+
+#orange {
+    color: rgb(238, 155, 0);
+}
+
+.order-button {
+    text-decoration: none;
+    color: white;
+    background-image: radial-gradient(orange, tomato);
+    padding: 18px 40px;
+    border-radius: 30px;
+}
+
+.mar {
+    margin-top: 50px;
+}
+
+.size-adjustment {
+    color: gray;
+    font-size: 25px;
+    font-weight: 300;
+    text-align: justify;
+}
+
+.also {
+    color: black;
+}
+
+.second-section {
+    font-size: 50px;
+    font-weight: 1000;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 60%;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.text-alignment {
+    padding-right: 250px;
+    padding-left: 300px;
+    padding-top: 120px;
+    width: 50%;
+}
+
+.food {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+    padding-top: 100px;
+}
+
+.third-section {
+    text-align: center;
+    font-size: 45px;
+    font-weight: 1000;
+}
+
+.size-perfection {
+    color: black;
+    font-size: 22px;
+    font-weight: 300;
+    padding: 0px 510px 0px 510px;
+    text-align: center;
+}
+
+.second-width {
+    width: 100%;
+}
+
+.second-width img {
+    width: 90%;
+    margin-left: 40px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.khabar {
+    padding-left: 100px;
+}
+
+#shadow {
+    box-shadow: 5px 5px 40px rgb(199, 199, 199);
+    border-radius: 50px;
+    margin-right: 30px;
+    padding: 10px;
+}
+
+#shadow-2 {
+    box-shadow: 5px 5px 40px rgb(199, 199, 199);
+    border-radius: 50px;
+    margin-right: 100px;
+    padding: 10px;
+}
+
+.recipie {
+    color: black;
+    font-size: 40px;
+    font-weight: 1000;
+    padding-left: 40px;
+}
+
+.para {
+    font-size: 25px;
+    padding-left: 40px;
+}
+
+.follower {
+    color: black;
+    display: flex;
+    justify-content: center;
+    box-shadow: 10px 10px 40px rgb(199, 199, 199);
+    margin: 150px 100px;
+    padding: 20px 0px;
+    border-radius: 40px;
+}
+
+.boro {
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.vai {
+    padding: 0px 200px;
+}
+
+.bon {
+    font-size: 20px;
+}
+
+footer {
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(10, 9, 20);
+    padding-top: 25px;
+    padding-bottom: 150px;
+}
+
+.orange-color {
+    color: rgb(216, 140, 0);
+}
+
+footer p {
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    padding-top: 30px;
+}
